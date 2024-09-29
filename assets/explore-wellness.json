@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Indomaret Digital Voucher",
+      "price": 50000,
+      "discountPct": 0,
+      "discountPrice": 47500
+    },
+    {
+      "id": 2,
+      "title": "Voucher Digital Gojek Transport",
+      "price": 50000,
+      "discountPct": 0,
+      "discountPrice": 47500
+    },
+    {
+      "id": 3,
+      "title": "Voucher Digital Grab Food",
+      "price": 50000,
+      "discountPct": 0,
+      "discountPrice": 47500
+    },
+    {
+      "id": 4,
+      "title": "Voucher Digital Gojek Food",
+      "price": 50000,
+      "discountPct": 5,
+      "discountPrice": 47500
+    },
+    {
+      "id": 5,
+      "title": "Voucher Digital Grab Transport",
+      "price": 50000,
+      "discountPct": 5,
+      "discountPrice": 47500
+    },
+    {
+      "id": 6,
+      "title": "Voucher Digital Gojek Transport",
+      "price": 50000,
+      "discountPct": 5,
+      "discountPrice": 47500
+    },
+    {
+      "id": 7,
+      "title": "Voucher Digital Grab Food",
+      "price": 50000,
+      "discountPct": 5,
+      "discountPrice": 47500
+    },
+    {
+      "id": 8,
+      "title": "Voucher Digital Gojek Food",
+      "price": 50000,
+      "discountPct": 5,
+      "discountPrice": 47500
+    }
+  ]
+}
